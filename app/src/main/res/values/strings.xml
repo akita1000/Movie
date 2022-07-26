@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="movie_title">Tonari no Totoro</string>
+    <string name="rent_from">RENT FROM R20.00</string>
+    <string name="buy_from">BUY FROM R120.00</string>
+    <string name="movie_detail">March 20, 2008, 1 hour 26 minutes</string>
+    <string name="description_movie_totoro">Sisters Satsuki and Mei move with their dad to a country house. One day they rarely discover that forest spirits live next to them - the guardians of the forest, mainly with their mighty and kind master Totoro. Gradually, Totoro becomes a friend of the girls, helping them in their daily adventures.</string>
+    <string name="similar">Similar</string>
+    <string name="procent">91%</string>
+    <string name="ratings">71763 ratings</string>
+    <string name="family">Family</string>
+    <string name="num_rating">8,2</string>
+</resources>
